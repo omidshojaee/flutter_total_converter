@@ -14,7 +14,7 @@ plugins {
 }
 
 android {
-    namespace = "com.omidshojaee.flutter_total_converter"
+    namespace = "com.example.flutter_total_converter"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
